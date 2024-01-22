@@ -11,6 +11,8 @@ To run this project on your local device
 
 -> git clone this repository
 
--> In client folder run npm install, similar in Server folder
+-> In the client folder run npm install, similar in the Server folder
 
--> Finally run npm start
+-> Finally run npm start in client folder
+
+-> Live Link of the website: https://to-do-app-wiq7.vercel.app/
