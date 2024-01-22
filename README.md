@@ -1,4 +1,4 @@
-# ToDo-App
+# Task-Tracker
 Created a ToDo App using MongoDB, Express.js, React.js, Node.js and Redux
 
 -> User can store his/her Todos in the database
